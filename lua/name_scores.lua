@@ -36,10 +36,10 @@ local names = {}
 
 -- Add names to table
 for line in f:lines() do
-				for name in string.gmatch(line, "[^,]+") do
-								local n = tostring(string.gsub(name, '"', ''))
-								table.insert(names, n)
-				end
+  for name in string.gmatch(line, "[^,]+") do
+    local n = tostring(string.gsub(name, '"', ''))
+    table.insert(names, n)
+  end
 end
 f:close()
 
@@ -48,15 +48,15 @@ table.sort(names, function(a, b) return a < b end)
 
 -- Loop through the names, retrieve its letter score, and multiply by position. Sum all values
 for i = 1, #names do
-				local n = names[i]
-				for i = 1, string.len(n) do
-								local letter = tostring(string.sub(n, i, i))
-								local letter_score = alphabet_table[letter] 
-								score = score + letter_score
-				end
-				c = c + 1
-				sum = sum + c*score
-				score = 0
+  local n = names[i]
+  for i = 1, string.len(n) do
+    local letter = tostring(string.sub(n, i, i))
+    local letter_score = alphabet_table[letter] 
+    score = score + letter_score
+  end
+  c = c + 1
+  sum = sum + c*score
+  score = 0
 end
 
 print("Result: ", sum)

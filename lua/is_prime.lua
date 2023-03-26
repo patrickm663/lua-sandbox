@@ -6,8 +6,8 @@ local function is_prime(n)
   else
     for i=2, math.floor(math.sqrt(n)) do
       if n % i == 0 then
-				print("First divisor:", i)
-        return false
+	print("First divisor:", i)
+	return false
       end
     end
     return true
