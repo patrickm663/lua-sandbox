@@ -1,5 +1,5 @@
 # lua-sandbox
-A place to hold simple Lua scripts, written for fun.
+A place to hold simple Lua (and Fennel) scripts, written for fun.
 
 ## Why Lua?
 Lua has proven to be a fun language for scripting and solving math problems. Its syntax is very simple (it's said that it can fit on the back of a postcard) and fast. I have not yet tested out libraries beyond a first stab at Löve, but I look forward to trying it out again.
