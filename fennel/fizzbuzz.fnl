@@ -1,5 +1,5 @@
 ;; Fizz-Buzz programme
-(fn fizzbuzz [x y n]
+(lambda fizzbuzz [x y n]
   (local z (* x y))
   (for [i 1 n]
     (if (= 0 (% i z))
