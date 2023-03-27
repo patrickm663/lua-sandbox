@@ -1,12 +1,18 @@
 ;; Fizz-Buzz programme
+(fn fizzbuzz [x y n]
+  (local z (* x y))
+  (for [i 1 n]
+    (if (= 0 (% i z))
+	(print "fizzbuzz")
+	(= 0 (% i x))
+	(print "fizz")
+	(= 0 (% i y))
+	(print "buzz")
+	(print i)
+    )
+  )
+)
 (local a 3)
 (local b 5)	
-(local c (* 3 5))	
-(for [i 1 20]
-  (if (= 0 (% i c))
-      (print "fizzbuzz")
-      (= 0 (% i a))
-      (print "fizz")
-      (= 0 (% i b))
-      (print "buzz")
-      (print i)))
+(local n 30)	
+(fizzbuzz a b n)	
