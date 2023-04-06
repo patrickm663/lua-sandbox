@@ -1,5 +1,5 @@
 ;; Returns n!
-(local N 10)
+(local N 20)
 (fn factorial [n]
   (if (= n 0)
       1
