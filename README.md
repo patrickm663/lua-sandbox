@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 # lua-sandbox
 A place to hold simple Lua (and Fennel) scripts, written for fun.
 
