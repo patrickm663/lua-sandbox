@@ -10,5 +10,8 @@ My original intentions were to know enough to customise Conky and Neovim. It tur
 ## And Fennel!?
 Fennel, on the otherhand, is a Lisp variant that marries Lisp with Fennel. Having never used Lisp before, Fennel seemed like a good entrypoint since Lua has been good thus far.
 
+## Other Languages?
+I am considering making this into a general-purpose repo for small scripts using different languages while I am exploring them. This would mean combining https://github.com/patrickm663/dlang-sandbox with this repo.
+
 ## License
 Licensed under BSD 3-Clause.
