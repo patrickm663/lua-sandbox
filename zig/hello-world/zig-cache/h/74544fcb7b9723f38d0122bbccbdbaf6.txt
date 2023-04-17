@@ -1,2 +1,0 @@
-4021720 328328 1681328844870000000 40b7f0ba278faa15fa64b02d6bd9ae5b /data/data/com.termux/files/home/zig-sandbox/hello-world/zig-cache/o/2a09a559af7c7b0b493252a3d5517041/build.o
-71114 354158 1681328836050000000 e6b5658e864c536488947c965e897716 /data/data/com.termux/files/home/.cache/zig/o/118026d7eba57d0ef7f2537c7ff016b2/libcompiler_rt.a
