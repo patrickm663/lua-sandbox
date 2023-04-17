@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Patrick Moehrke"
+	],
+	"copyright": "Copyright © 2023, Patrick Moehrke",
+	"description": "A basic hello world programme",
+	"license": "BSD 3-Clause \"New\" or \"Revised\"",
+	"name": "hello-world"
+}
