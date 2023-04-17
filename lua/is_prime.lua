@@ -14,5 +14,5 @@ local function is_prime(n)
   end
 end
 
-local M = 4
+local M = 997681
 print("Is", M, "prime?", is_prime(M))
