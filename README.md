@@ -1,18 +1,8 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-# lua-sandbox
-A place to hold simple Lua (and Fennel) scripts, written for fun.
+# Sandbox
+This repo serves as a testing ground for various languages. I really enjoy learning new languages and different approaches to solving problems.
 
-## Why Lua?
-Lua has proven to be a fun language for scripting and solving math problems. Its syntax is very simple (it's said that it can fit on the back of a postcard) and fast. I have not yet tested out libraries beyond a first stab at Löve, but I look forward to trying it out again.
+The programmes here are written for fun and to track progress as I pick up new languages and see what sticks. Some of these may break, some are repeated, and some may grow to form bigger projects eventually -- but mostly they're written to get to grips with syntax.
 
-## Okay... but to do what exactly?
-My original intentions were to know enough to customise Conky and Neovim. It turns out I like the language enough to programme in it, so I've worked through some programming and math exercises, contained here. I do want to move on to a more ambitious project like the Conky repo I've got sitting, or a Löve game. 
-
-## And Fennel!?
-Fennel, on the otherhand, is a Lisp variant that marries Lisp with Fennel. Having never used Lisp before, Fennel seemed like a good entrypoint since Lua has been good thus far.
-
-## Other Languages?
-I am considering making this into a general-purpose repo for small scripts using different languages while I am exploring them. This would mean combining https://github.com/patrickm663/dlang-sandbox with this repo.
-
-## License
-Licensed under BSD 3-Clause.
+## Languages
+This started as a place to hold Lua code but has since expanded to Fennel, D, Zig, and more on the horizon. Nim is the latest language I'm looking at. It looks interesting so far! It feels like a better Python with optional static typing. 
