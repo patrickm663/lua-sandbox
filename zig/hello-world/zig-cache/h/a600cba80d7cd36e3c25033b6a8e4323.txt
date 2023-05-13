@@ -1,0 +1,2 @@
+4021720 370141 1682863716170000000 c1102b8496756725407d32c19adcffa8 /data/data/com.termux/files/home/sandbox/zig/hello-world/zig-cache/o/0518d449ebc509b0ad5d0f607ed300f1/build.o
+71114 354158 1681328836050000000 e6b5658e864c536488947c965e897716 /data/data/com.termux/files/home/.cache/zig/o/118026d7eba57d0ef7f2537c7ff016b2/libcompiler_rt.a

@@ -1,0 +1,2 @@
+909456 365105 1682863723570000000 2d9dc8873c07bb98d0e41f91b1730a12 /data/data/com.termux/files/home/sandbox/zig/hello-world/zig-cache/o/492790ab8bb5351ce8c7955806454765/hello-world.o
+71114 354158 1681328836050000000 e6b5658e864c536488947c965e897716 /data/data/com.termux/files/home/.cache/zig/o/118026d7eba57d0ef7f2537c7ff016b2/libcompiler_rt.a
