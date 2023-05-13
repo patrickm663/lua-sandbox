@@ -1,4 +1,4 @@
-local function is_prime(n)
+function is_prime(n)
   if n < 2 then
     return false
   elseif n == 2 then
@@ -14,5 +14,5 @@ local function is_prime(n)
   end
 end
 
-local M = 997681
+local M = 98574861
 print("Is", M, "prime?", is_prime(M))
